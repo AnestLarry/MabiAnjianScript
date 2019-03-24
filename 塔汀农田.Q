@@ -1,0 +1,118 @@
+[General]
+SyntaxVersion=2
+BeginHotkey=32778
+BeginHotkeyMod=0
+PauseHotkey=0
+PauseHotkeyMod=0
+StopHotkey=32775
+StopHotkeyMod=0
+RunOnce=1
+EnableWindow=
+MacroID=2358fe42-0ac6-455d-bc11-16988f0d1721
+Description=塔汀农田
+Enable=0
+AutoRun=0
+[Repeat]
+Type=0
+Number=1
+[SetupUI]
+Type=2
+QUI=
+[Relative]
+SetupOCXFile=
+[Comment]
+
+[Attachment]
+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
+
+
+[Script]
+UserVar JSNum = 4 "浇水次数"
+UserVar SFNum = 4 "施肥次数"
+UserVar ZCNum = 2 "捉虫次数"
+UserVar FoX = 0 "X坐标"
+UserVar FoY = 0 "Y坐标"
+UserVar FoW = 1024 "W坐标"
+UserVar FoH = 768 "H坐标"
+
+For JSNum
+    REM JSAG
+    Call JSCD
+    If JSOK = 1 Then 
+        MoveTo intX + 12, intY + 13
+        Delay 500
+        LeftClick 1
+        Delay 1000
+        MoveTo FoX, FoY
+        Delay 60000
+        JSOK = 0
+    
+    Else 
+        Delay 20000
+        Goto JSAG
+    End If
+Next
+
+For SFNum
+    REM SFAG
+    Call SFCD
+    If SFOK = 1 Then 
+        MoveTo intX + 12, intY + 13
+        Delay 500
+        LeftClick 1
+        Delay 1000
+        MoveTo FoX, FoY
+        Delay 60000
+        SFOK = 0
+    
+    Else 
+        Delay 20000
+        Goto SFAG
+    End If
+Next
+
+For ZCNum
+    REM ZCAG
+    Call ZCCD
+    If ZCOK = 1 Then 
+        MoveTo intX + 12, intY + 13
+        Delay 500
+        LeftClick 1
+        Delay 1000
+        MoveTo FoX, FoY
+        Delay 60000
+        SFOK = 0
+    
+    Else 
+        Delay 20000
+        Goto ZCAG
+    End If
+Next
+
+MsgBox "已经完成！" &vbcr& JSNum &"次浇水" &vbcr & SFNum &"次施肥" &vbcr &ZCNum & "次捉虫"
+EndScript
+
+
+
+
+Sub JSCD
+    FindPic FoX,FoY,FoW,FoH,"Attachment:\JS.bmp",1,intX,intY
+    If intX > FoX And intY > FoY Then 
+        JSOK = 1
+    End If
+
+End Sub
+Sub SFCD
+    FindPic FoX,FoY,FoW,FoH,"Attachment:\SF.bmp",1,intX,intY
+    If intX > FoX And intY > FoY Then 
+        SFOK = 1
+    End If
+
+End Sub
+Sub ZCCD
+    FindPic FoX,FoY,FoW,FoH,"Attachment:\ZC.bmp",1,intX,intY
+    If intX > FoX And intY > FoY Then 
+        ZCOK = 1
+    End If
+
+End Sub
